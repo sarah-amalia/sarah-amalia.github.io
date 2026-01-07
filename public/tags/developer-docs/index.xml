@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Developer Docs on Sarah Amalia</title>
+    <link>http://localhost:1313/tags/developer-docs/</link>
+    <description>Recent content in Developer Docs on Sarah Amalia</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Sep 2025 09:54:04 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/developer-docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bored API Documentation</title>
+      <link>http://localhost:1313/projects/628fb53/</link>
+      <pubDate>Sat, 06 Sep 2025 09:54:04 +0700</pubDate>
+      <guid>http://localhost:1313/projects/628fb53/</guid>
+      <description>Professional API documentation with quick start guide, endpoint reference, and code examples for developers</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitBook on Sarah Amalia</title>
+    <link>http://localhost:1313/tags/gitbook/</link>
+    <description>Recent content in GitBook on Sarah Amalia</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 10 Oct 2025 14:08:03 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gitbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple Knowledge Bases</title>
+      <link>http://localhost:1313/projects/f8e0ea1/</link>
+      <pubDate>Fri, 10 Oct 2025 14:08:03 +0700</pubDate>
+      <guid>http://localhost:1313/projects/f8e0ea1/</guid>
+      <description>Comprehensive (unofficial) KB documentation for CourseCorrect, structured with 4 main categories covering getting started, how-to guides, FAQs, and troubleshooting.</description>
+    </item>
+  </channel>
+</rss>

@@ -6,7 +6,7 @@ author:
   name: "Sarah Amalia"
   title: "Technical Writer"
   description: "Loves turning complex information into clear, structured documentation."
-  avatar: "/images/sa.png/"
+  avatar: "/images/sa.png"
   social:
     - name: "linkedin"
       url: "https://www.linkedin.com/in/amaliassarah/"
@@ -15,7 +15,7 @@ author:
       url: "mailto:sarahamalia.tw@gmail.com"
       icon: "email"
     - name: "GitHub"
-      url: "https://github.com/sarah-techwriter/"
+      url: "https://github.com/sarah-amalia/"
       icon: "github"
     - name: "Medium"
       url: "https://vpofsr.medium.com/"

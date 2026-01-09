@@ -16,7 +16,7 @@ categories:
 cover: "/images/hugo-docs.png"
 # Project-specific fields
 github: ""
-demo: "/link/"
+demo: "https://sarah-hugo-docs.netlify.app/"
 website: ""
 tech_stack:
   - Hugo

@@ -6,8 +6,15 @@
     <description>Recent content in Technical Writing Projects on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 07 Jan 2026 08:44:40 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 13:26:57 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zendesk Knowledge Management Portfolio</title>
+      <link>http://localhost:1313/projects/zendesk-knowledge-management-portfolio/</link>
+      <pubDate>Sat, 17 Jan 2026 13:26:57 +0700</pubDate>
+      <guid>http://localhost:1313/projects/zendesk-knowledge-management-portfolio/</guid>
+      <description>Built a full-featured knowledge base with 6+ articles, automation workflows, and analytics framework for legal tech documentation</description>
+    </item>
     <item>
       <title>Hugo Documentation</title>
       <link>http://localhost:1313/projects/dc7206b/</link>

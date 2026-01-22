@@ -7,6 +7,7 @@ description: "Complete legal tech knowledge base: 6 articles, automation workflo
 summary: "Knowledge base for legal practice management with content templates, macros, triggers, and analytics tracking"
 cover: "/images/main-dashboard-zendesk.png"
 featured: true
+weight: 1
 tags:
   - technical-writing
   - zendesk

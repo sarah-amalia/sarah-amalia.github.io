@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Writing Projects on Sarah Amalia</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Technical Writing Projects on Sarah Amalia</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Feb 2026 19:02:28 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remnote Installation Guide</title>
+      <link>http://localhost:1313/projects/99a204e/</link>
+      <pubDate>Mon, 09 Feb 2026 19:02:28 +0700</pubDate>
+      <guid>http://localhost:1313/projects/99a204e/</guid>
+      <description>Installation Guide work sample for Remnote application</description>
+    </item>
+    <item>
+      <title>Hugo Documentation</title>
+      <link>http://localhost:1313/projects/dc7206b/</link>
+      <pubDate>Mon, 05 Jan 2026 08:12:53 +0700</pubDate>
+      <guid>http://localhost:1313/projects/dc7206b/</guid>
+      <description>(unofficial) Hugo Documentation for Technical Writer</description>
+    </item>
+    <item>
+      <title>Bored API Documentation</title>
+      <link>http://localhost:1313/projects/628fb53/</link>
+      <pubDate>Sat, 06 Sep 2025 09:54:04 +0700</pubDate>
+      <guid>http://localhost:1313/projects/628fb53/</guid>
+      <description>Professional API documentation with quick start guide, endpoint reference, and code examples for developers</description>
+    </item>
+    <item>
+      <title>Zendesk Knowledge Base Portfolio</title>
+      <link>http://localhost:1313/projects/zendesk-kb-portfolio/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/zendesk-kb-portfolio/</guid>
+      <description>Knowledge base for legal practice management with content templates, macros, triggers, and analytics tracking</description>
+    </item>
+    <item>
+      <title>User Guide - CourseCorrect</title>
+      <link>http://localhost:1313/projects/coursercorrect-user-guide/</link>
+      <pubDate>Wed, 07 Jan 2026 08:44:40 +0700</pubDate>
+      <guid>http://localhost:1313/projects/coursercorrect-user-guide/</guid>
+      <description>Independent user guide covering account setup, features, workflows, troubleshooting, and FAQ for CourseCorrect platform</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+main:
+  - name: nav.posts
+    pageRef: /posts
+    weight: 25
+    params:
+      icon: posts
+  - name: nav.projects
+    pageRef: /projects
+    weight: 20
+    params:
+      icon: projects
+  - name: nav.categories
+    pageRef: /categories
+    weight: 30
+    params:
+      icon: categories
+  - name: nav.tags
+    pageRef: /tags
+    weight: 40
+    params:
+      icon: tags
+  - name: nav.archives
+    pageRef: /archives
+    weight: 50
+    params:
+      icon: archive
+
+# footer menu
+footer:
+  - name: Resume
+    pageRef: /resume
+    weight: 20
+    params:
+      icon: resume
+  - name: About
+    pageRef: /about
+    weight: 10
+    params:
+      icon: About
+  - name: Contact
+    url: "mailto:sarahamalia.tw@gmail.com"
+    weight: 30
+    params:
+      icon: contact
+  - name: RSS Feed
+    url: /index.xml
+    weight: 40
+    params:
+      icon: rss
+
+# footer social link
+social:
+  - name: GitHub
+    url: https://github.com/sarah-techwriter/    
+    weight: 10
+    params:
+      icon: github
+  - name: LinkedIn
+    url: https://linkedin.com/in/amaliassarah/
+    weight: 30
+    params:
+      icon: linkedin
+  - name: Email
+    url: mailto:sarahamalia.tw@gmail.com
+    weight: 40
+    params:
+      icon: email
+

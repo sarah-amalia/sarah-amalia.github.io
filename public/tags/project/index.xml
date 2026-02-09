@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Sarah Amalia</title>
+    <link>http://localhost:1313/tags/project/</link>
+    <description>Recent content in Project on Sarah Amalia</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Feb 2026 19:02:28 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Remnote</title>
+      <link>http://localhost:1313/projects/99a204e/</link>
+      <pubDate>Mon, 09 Feb 2026 19:02:28 +0700</pubDate>
+      <guid>http://localhost:1313/projects/99a204e/</guid>
+      <description>Project summary that appears in card previews</description>
+    </item>
+  </channel>
+</rss>

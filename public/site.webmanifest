@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "categories": [
+    "blog",
+    "technology",
+    "education"
+  ],
+  "description": "Portfolio of Sarah Amalia, a Technical Writer specializing in creating clear and concise documentation for complex technical subjects.",
+  "dir": "ltr",
+  "display": "standalone",
+  "lang": "en-US",
+  "name": "Sarah Amalia",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "Sarah",
+  "start_url": "/",
+  "theme_color": "#09090b"
+}

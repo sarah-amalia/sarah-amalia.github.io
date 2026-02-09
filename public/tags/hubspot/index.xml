@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HubSpot on Sarah Amalia</title>
+    <link>http://localhost:1313/tags/hubspot/</link>
+    <description>Recent content in HubSpot on Sarah Amalia</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Jan 2026 10:26:10 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hubspot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Video Tutorial - How to add new client matter on HubSpot</title>
+      <link>http://localhost:1313/posts/how-to-add-new-client-matter/</link>
+      <pubDate>Mon, 19 Jan 2026 10:26:10 +0700</pubDate>
+      <guid>http://localhost:1313/posts/how-to-add-new-client-matter/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0;&#34;&gt;&lt;iframe src=&#34;https://www.loom.com/embed/0bbf00ec13a64c67bcf03e0725742b22&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>

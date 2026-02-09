@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Video Tutorial on Sarah Amalia</title>
+    <link>http://localhost:1313/tags/video-tutorial/</link>
+    <description>Recent content in Video Tutorial on Sarah Amalia</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 19 Jan 2026 10:26:10 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/video-tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Add Contact CRM&#39;</title>
+      <link>http://localhost:1313/posts/a70cdad/</link>
+      <pubDate>Mon, 19 Jan 2026 10:26:10 +0700</pubDate>
+      <guid>http://localhost:1313/posts/a70cdad/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

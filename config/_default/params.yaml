@@ -1,0 +1,241 @@
+# Basic site info with SEO
+description: "Portfolio of Sarah Amalia, a Technical Writer specializing in creating clear and concise documentation for complex technical subjects."
+keywords: ["Technical Writing", "Technical Writer", "techwriter", "Portfolio", "Documentation", "projects", "Sarah Amalia", "Tech Writer", "User Guides", "API Documentation", "Content Strategy", "Software Documentation", "Tech Communication", "Hugo Blog", "Open Source Documentation", "Tech Articles"]
+defaultAuthor: "Sarah Amalia"
+language: "en-US"
+shortName: "Sarah"  # PWA
+images:
+  - "/favicon.svg"
+
+# Favicon
+favicon:
+  png: "/favicon.svg"  # PNG format favicon (recommended)
+
+# Author info
+author:
+  name: "Sarah Amalia"
+  title: "Technical Writer"
+  description: "Loves turns complex information into clear, structured documentation."
+  avatar: "/images/sa.png/"
+  social:
+    - name: "GitHub"
+      url: "https://github.com/sarah-amalia/"
+      icon: "github"
+    - name: "Twitter"
+      url: "https://twitter.com/username"
+      icon: "twitter"
+    - name: "Email"
+      url: "mailto:hello@example.com"
+      icon: "email"
+
+# Header configuration (modularized)
+header:
+  sticky: true  # Enable sticky navigation bar
+  logo:
+    image: "/images/sa.png/"  # Logo path relative to static folder, leave empty to use site title first letter
+    link: "/"  # Click to home page
+  # UI Components Control (header controls)
+  showThemeSwitch: true      # Set to false to hide theme style switcher (palette icon)
+  showDarkModeSwitch: true   # Set to false to hide dark mode switcher (sun/moon icon)
+  showLanguageSwitch: true   # Set to false to hide language switcher
+  languageSwitchMode: "dropdown"  # Language switch mode: "dropdown" (show panel) or "cycle" (direct cycle)
+
+# Dock display mode
+# Options: "scroll" (show on scroll up), "always" (always visible), "float" (floating button)
+dock: "scroll"
+
+# TOC (Table of Contents)
+toc:
+  enabled: true         # Enable or disable TOC globally
+  position: "left"      # Options: card left right
+  maxWidth: "280px"
+  maxHeight: "80vh"
+
+
+
+# Default color scheme
+colorScheme: "default"
+themes:
+  default:
+    name: "Default"
+    order: 1
+  claude:
+    name: "Claude"
+    order: 2
+  bumblebee:
+    name: "Bumblebee"
+    order: 3
+  emerald:
+    name: "Emerald"
+    order: 4
+  nord:
+    name: "Nord"
+    order: 5
+  sunset:
+    name: "Sunset"
+    order: 6
+  abyss:
+    name: "Abyss"
+    order: 7
+  dracula:
+    name: "Dracula"
+    order: 8
+  amethyst:
+    name: "Amethyst"
+    order: 9
+  slate:
+    name: "Slate"
+    order: 10
+  twitter:
+    name: "Twitter"
+    order: 11
+
+# Home page configuration
+home:
+  recentPostsCount: 5  # Number of recent posts to show on the home page
+
+  # Content order configuration - customize the order of home page sections
+  # Available sections: author-section, recent-posts, featured-projects, page-content
+  # You can add your custom content by creating files in `layouts/_partials/home/` folder, then add it to the list
+  contentOrder:
+    - author-section
+    - page-content
+    - featured-projects.html
+    - recent-posts
+    
+
+
+
+
+# Post configuration
+post:
+  showRelated: true           # show related posts
+  relatedPostsCount: 3        # posts number
+  license:
+    show: true
+    author: "Sarah Amalia"
+    name: ""
+    description: "All rights reserved."
+    url: "https://sarah-amalia.github.io/"
+    displayName: ""
+
+# Comments
+comments:
+  enabled: false
+  system: "giscus"
+  giscus:
+    repo: "tom2almighty/hugo-narrow-giscus"
+    repoId: ""
+    category: "General"
+    categoryId: ""
+    mapping: "pathname"
+    strict: "0"
+    reactionsEnabled: "1"
+    emitMetadata: "0"
+    inputPosition: "bottom"
+    theme: "preferred_color_scheme"
+    lang: "en"
+  disqus:
+    shortname: ""
+  utterances:
+    repo: ""
+    issueTerm: "pathname"
+    label: "comment"
+    theme: "preferred-color-scheme"
+  waline:
+    serverURL: ""
+    lang: "zh-CN"
+  artalk:
+    server: ""
+    site: ""
+    locale: "zh-CN" # String|Object|"auto"
+    darkMode: "auto"
+    gravatar:
+      mirror: "https://cravatar.cn/avatar/"
+  twikoo:
+    envId: ""
+    region: "ap-shanghai"
+    path: ""
+    lang: "zh-CN"
+
+# Analytics
+analytics:
+  enabled: false
+  baidu:
+    enabled: false
+    id: "your-baidu-analytics-id"
+  clarity:
+    enabled: false
+    id: "your-clarity-analytics-id"
+  google:
+    enabled: false
+    id: "your-google-analytics-id"
+  umami:
+    enabled: false
+    id: "your-umami-website-id"
+    src: "https://umami.com/myscript.js"
+    domains: "example.domain.com"
+
+# KaTeX
+katex:
+  enabled: true
+  delimiters:
+    - left: "$$"
+      right: "$$"
+      display: true
+    - left: "$"
+      right: "$"
+      display: false
+    - left: "\\("
+      right: "\\)"
+      display: false
+    - left: "\\["
+      right: "\\]"
+      display: true
+
+# Mermaid
+mermaid:
+  enabled: true
+
+# GLightbox
+lightbox:
+  enabled: false
+  loop: true
+  width: 80vw
+  height: 80vh
+  touchNavigation: true
+  draggable: true
+  zoomable: true
+  preload: true
+  descPosition: bottom
+
+# Justified Gallery
+justified_gallery:
+  enabled: false
+  rowHeight: 300
+  gutter: 30
+  lastRow: center
+  transitionDuration: 0.3s
+  resizeDebounce: 100
+  rowHeightTolerance: 0.25
+  maxRowsCount: 999999
+  calculateItemsHeight: false
+
+# Code block
+codeblock:
+  collapse:
+    enabled: true
+    defaultState: expanded  # expanded, collapsed
+    autoCollapseLines: 30
+    autoCollapseHeight: 400
+    collapsedHeight: 120
+
+# Reading progress
+readingProgress:
+  enabled: true
+  height: 3
+  showOnHomepage: false
+  smoothScroll: true
+  hideOnComplete: false
+
+

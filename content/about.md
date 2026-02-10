@@ -1,7 +1,7 @@
 ---
 title: "ABOUT"
 layout: "about"
-summary: "Get to know me"
+summary: "Get to know me a bit"
 date: 2024-01-01T00:00:00+08:00
 links:
   - name: "Hugo Docs"
@@ -14,49 +14,41 @@ links:
     description: "The world's largest code hosting platform. "
 
 ---
-I'm a **Technical Writer** who turns complex information into clear, structured documentation for both technical and non-technical audiences. Driven by high curiosity, I enjoy understanding how systems and products work and translating them into user-friendly content. I use modern documentation tools and follow organizational style guides while prioritizing clarity, accuracy, and consistency.
+Hi, I'm Sarah 
+
+An English graduate with strong passion for technical writing and documentation. I'm fascinated by how systems work and passionate about making complex information easy to understand for both technical or non-technical audiences.  
 
 ## My Toolkit
-### Daily Tools
-The tools I use regularly for technical writing and documentation:
-- **Content Creation:** VS Code, StackEdit, Markdown, Physical Notebook
-- **Static Site Generation:** Hugo
-- **Version Control:** Git, GitHub
-- **Command Line:** PowerShell
-- **Writing Enhancement:** Quillbot
+My daily toolkit includes:
+- CLI
+- GitHub
+- VS Code, MarkText
+- Hugo and Markdown, Mermaid, HTML
+- Remnote
+- Greenshot
+- Windows
+- Google Suite
+ 
 
-### Tools I've Used
+## Other Tools I've Used
+`MKDocs` `Readthedocs` `Netlify` `Postman` `Gitbook` `Zendesk` `Loom` `Figma` `Canva` `Notion` `Trello` `Linux (wsl)`
 
-#### Content Authoring
-- **Markup Languages:** Markdown, HTML, AsciiDoc
-- **Editors:** VS Code, StackEdit, Obsidian, Typora, HackMD
-- **Writing Tools:** Grammarly, Quillbot
-
-#### Documentation & Development
-- **Static Site Generators:** Hugo, MkDocs
-- **Documentation Platforms:** Read the Docs, GitHub Pages
-- **CMS:** GitBook
-- **Version Control:** Git, GitHub
-- **API Testing:** Postman
-
-#### Design & Collaboration
-- **Diagramming:** Mermaid, Draw.io, Figma, Canva
-- **Project Management:** Notion, Trello
-	
 ---
-**About Me:**  
-**Location:** Indonesia (Open to Remote Work)  
+**Open to:**  
+**Location:** Indonesia or remote worldwide  
+**Class of work:** Internship, Trainee, Full-time, freelance, or Contract.  
+**Type of Work:**
+Technical & informational documentation,  Knowledge base and Management, Help Center, Information architecture, Translation & localization.  
+**Desired Title:** Technical writer staff, Knowledge Manager, Information Architect
 
-**Type of Work**
-* Technical & informational documentation
-* Information architecture
-* Translation & localization (English ↔ Indonesian)
+---
+#### Current Focus
+Actively developing technical writing skills  
+Date: September 2025 - Present  
+Location: Indonesia
 
-**Core Skills**  
-* Technical writing fundamentals
-* Information clarity and structure
-* User-focused documentation
-* Collaboration with subject matter experts (SMEs)
-* Editing and proofreading
-* Documentation review and revision
-* Translation (English ↔ Indonesian)
+Activites: 
+- Creating documentation projects using modern tools and frameworks
+- Learning Diátaxis documentation framework
+- Developing proficiency in Git, Linux, and documentation markup languages
+- Preparing to contribute to open-source documentation

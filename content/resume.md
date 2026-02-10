@@ -14,7 +14,7 @@ cover:
 ---
 
 Summary  
-Detail-oriented, hands-on learning approach, and comfortable working with subject matter experts to clarify technical concepts and deliver accurate, user-focused documentation.
+Detail-oriented, hands-on learning approach, and comfortable working with subject matter experts to clarify technical concepts and deliver accurate, user-focused documentation. Create structured documentation that follow organizational standard and style guides while prioritizing clarity, accuracy, and consistency.
 
 ---
 ## EXPERIENCE
@@ -22,10 +22,11 @@ Detail-oriented, hands-on learning approach, and comfortable working with subjec
 PT Angkasa Pura Indonesia – Yogyakarta International Airport  
 September 2024 – December 2024 | `onsite`
 
-* Translated a 30-page e-book about the airport's architectural design, collaborating with the author (SME) for accuracy, and lecturers for linguistic quality.
-Created a monthly Instagram content plan.
-* Monitored daily news and classified media sentiment.
-* Contributed to the second edition of the 2025 airport bulletin.
+- Collaborated with SME to translate and localize technical e-book on airport architectural design, adapting complex terminology for English readers.  
+- Contributed content to official airport bulletin publication (2nd edition, 2025).  
+- Developed a monthly content calendar for social media.  
+- Tracked and classified media sentiment related to airport operations.
+
 
 ---
 

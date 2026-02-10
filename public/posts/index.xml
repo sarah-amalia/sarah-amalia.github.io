@@ -2,45 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts&#39; on Sarah Amalia</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://sarah-amalia.github.io/posts/</link>
     <description>Recent content in Posts&#39; on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 24 Jan 2026 10:39:06 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to Screenshot With No Extension&#39;</title>
-      <link>http://localhost:1313/posts/f6a00bb/</link>
-      <pubDate>Sat, 24 Jan 2026 10:39:06 +0700</pubDate>
-      <guid>http://localhost:1313/posts/f6a00bb/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Tue, 09 Dec 2025 13:38:07 +0700</lastBuildDate>
+    <atom:link href="https://sarah-amalia.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rumination</title>
-      <link>http://localhost:1313/posts/544ef69/</link>
+      <link>https://sarah-amalia.github.io/posts/544ef69/</link>
       <pubDate>Tue, 09 Dec 2025 13:38:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/544ef69/</guid>
+      <guid>https://sarah-amalia.github.io/posts/544ef69/</guid>
       <description>&lt;p&gt;I love the phrase&lt;/p&gt;&#xA;&lt;p&gt;how you treat your mind&lt;br&gt;&#xA;is the same thing on how you treat your garden.&lt;br&gt;&#xA;any plant you water&lt;br&gt;&#xA;is the one that grows.&lt;/p&gt;&#xA;&lt;p&gt;any memory you wish to remember, &lt;br&gt;&#xA;is the one that stays and looping in your head.&lt;br&gt;&#xA;engraved.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
     <item>
       <title>How I am Jumping into Technical Writing With Zero Tech Background</title>
-      <link>http://localhost:1313/posts/b8f247c/</link>
+      <link>https://sarah-amalia.github.io/posts/b8f247c/</link>
       <pubDate>Wed, 26 Nov 2025 13:49:24 +0700</pubDate>
-      <guid>http://localhost:1313/posts/b8f247c/</guid>
+      <guid>https://sarah-amalia.github.io/posts/b8f247c/</guid>
       <description>Building my technical writing portfolio from scratch while battling my imposter syndrome.</description>
     </item>
     <item>
-      <title>How I Use Claude and NotebookLM to Accelerate My Learning and Technical Writing Process</title>
-      <link>http://localhost:1313/posts/6349032/</link>
-      <pubDate>Tue, 04 Nov 2025 13:31:25 +0700</pubDate>
-      <guid>http://localhost:1313/posts/6349032/</guid>
-      <description>This is my learning journey blog on how I leverage AI tools Claude and NotebookLM to accelerate my learning, technical writing creation and create better documentation</description>
-    </item>
-    <item>
       <title>Understanding GPU Benchmark Numbers: What 60 FPS Actually Means</title>
-      <link>http://localhost:1313/posts/b1544c4/</link>
+      <link>https://sarah-amalia.github.io/posts/b1544c4/</link>
       <pubDate>Wed, 24 Sep 2025 13:42:19 +0700</pubDate>
-      <guid>http://localhost:1313/posts/b1544c4/</guid>
+      <guid>https://sarah-amalia.github.io/posts/b1544c4/</guid>
       <description>KEY TAKEAWAYS • 60 FPS is the sweet spot for most gamers, offering a major improvement over 30 FPS. • Frame consistency (1% lows) matters more than peak FPS for a smooth experience. • Resolution is a major performance factor; a stable 60 FPS at 1440p can feel better than an inconsistent 100 FPS at 4K. • Match your GPU&amp;rsquo;s VRAM to your target resolution to future-proof your setup.</description>
     </item>
   </channel>

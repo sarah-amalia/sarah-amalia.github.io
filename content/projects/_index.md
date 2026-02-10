@@ -5,4 +5,4 @@ description: "Explore my portfolio of projects, from simple documentation to com
 
 ## Technical Writing Projects
 
-Here are examples of my technical writing and documentation work. Click any project to learn more about the context, process, and outcomes.
+The examples of my technical writing and documentation work. Click any project for more detail information.

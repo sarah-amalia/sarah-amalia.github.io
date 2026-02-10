@@ -27,11 +27,12 @@ author:
 
 About This Site
 
-This is my personal space for sharing technical writing projects, blog posts, and sometimes journal entries.
+This is my personal space for sharing technical writing projects, tech insights, and sometimes journal entries.
 
-Built with <u>[GitHub Pages](https://docs.github.com/en)</u>, <u>[Hugo](https://gohugo.io/)</u>, the <u>[Narrow theme](https://hugo-narrow-docs.vercel.app/)</u>, and <u>[Markdown](https://www.markdownguide.org/)</u>.
+Built with <u>[GitHub](https://docs.github.com/en)</u>, <u>[Netlify](https://www.netlify.com/)</u>,<u>[Hugo](https://gohugo.io/)</u>, the <u>[Narrow theme](https://hugo-narrow-docs.vercel.app/)</u>, and <u>[Markdown](https://www.markdownguide.org/)</u>.
 
 —
 
+:fire: 
 _Always open to technical writing projects and documentation collaborations._  
-Get to know me a bit through my about and resume on the footer menu section below.
+Get to know me a bit through my about and resume icon in the footer menu below.

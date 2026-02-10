@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mindfulness on Sarah Amalia</title>
-    <link>http://localhost:1313/tags/mindfulness/</link>
+    <link>https://sarah-amalia.github.io/tags/mindfulness/</link>
     <description>Recent content in Mindfulness on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 09 Dec 2025 13:38:07 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mindfulness/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sarah-amalia.github.io/tags/mindfulness/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rumination</title>
-      <link>http://localhost:1313/posts/544ef69/</link>
+      <link>https://sarah-amalia.github.io/posts/544ef69/</link>
       <pubDate>Tue, 09 Dec 2025 13:38:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/544ef69/</guid>
+      <guid>https://sarah-amalia.github.io/posts/544ef69/</guid>
       <description>&lt;p&gt;I love the phrase&lt;/p&gt;&#xA;&lt;p&gt;how you treat your mind&lt;br&gt;&#xA;is the same thing on how you treat your garden.&lt;br&gt;&#xA;any plant you water&lt;br&gt;&#xA;is the one that grows.&lt;/p&gt;&#xA;&lt;p&gt;any memory you wish to remember, &lt;br&gt;&#xA;is the one that stays and looping in your head.&lt;br&gt;&#xA;engraved.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
   </channel>

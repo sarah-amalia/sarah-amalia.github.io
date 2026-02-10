@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gaming Performance on Sarah Amalia</title>
-    <link>http://localhost:1313/tags/gaming-performance/</link>
+    <link>https://sarah-amalia.github.io/tags/gaming-performance/</link>
     <description>Recent content in Gaming Performance on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 24 Sep 2025 13:42:19 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/gaming-performance/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sarah-amalia.github.io/tags/gaming-performance/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding GPU Benchmark Numbers: What 60 FPS Actually Means</title>
-      <link>http://localhost:1313/posts/b1544c4/</link>
+      <link>https://sarah-amalia.github.io/posts/b1544c4/</link>
       <pubDate>Wed, 24 Sep 2025 13:42:19 +0700</pubDate>
-      <guid>http://localhost:1313/posts/b1544c4/</guid>
+      <guid>https://sarah-amalia.github.io/posts/b1544c4/</guid>
       <description>KEY TAKEAWAYS • 60 FPS is the sweet spot for most gamers, offering a major improvement over 30 FPS. • Frame consistency (1% lows) matters more than peak FPS for a smooth experience. • Resolution is a major performance factor; a stable 60 FPS at 1440p can feel better than an inconsistent 100 FPS at 4K. • Match your GPU&amp;rsquo;s VRAM to your target resolution to future-proof your setup.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning Journey on Sarah Amalia</title>
-    <link>http://localhost:1313/tags/learning-journey/</link>
+    <link>https://sarah-amalia.github.io/tags/learning-journey/</link>
     <description>Recent content in Learning Journey on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 26 Nov 2025 13:49:24 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/learning-journey/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sarah-amalia.github.io/tags/learning-journey/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I am Jumping into Technical Writing With Zero Tech Background</title>
-      <link>http://localhost:1313/posts/b8f247c/</link>
+      <link>https://sarah-amalia.github.io/posts/b8f247c/</link>
       <pubDate>Wed, 26 Nov 2025 13:49:24 +0700</pubDate>
-      <guid>http://localhost:1313/posts/b8f247c/</guid>
+      <guid>https://sarah-amalia.github.io/posts/b8f247c/</guid>
       <description>Building my technical writing portfolio from scratch while battling my imposter syndrome.</description>
     </item>
   </channel>

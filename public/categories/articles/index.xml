@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Sarah Amalia</title>
-    <link>http://localhost:1313/categories/articles/</link>
+    <link>https://sarah-amalia.github.io/categories/articles/</link>
     <description>Recent content in Articles on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 26 Nov 2025 13:49:24 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/articles/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sarah-amalia.github.io/categories/articles/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How I am Jumping into Technical Writing With Zero Tech Background</title>
-      <link>http://localhost:1313/posts/b8f247c/</link>
+      <link>https://sarah-amalia.github.io/posts/b8f247c/</link>
       <pubDate>Wed, 26 Nov 2025 13:49:24 +0700</pubDate>
-      <guid>http://localhost:1313/posts/b8f247c/</guid>
+      <guid>https://sarah-amalia.github.io/posts/b8f247c/</guid>
       <description>Building my technical writing portfolio from scratch while battling my imposter syndrome.</description>
     </item>
     <item>
-      <title>How I Use Claude and NotebookLM to Accelerate My Learning and Technical Writing Process</title>
-      <link>http://localhost:1313/posts/6349032/</link>
-      <pubDate>Tue, 04 Nov 2025 13:31:25 +0700</pubDate>
-      <guid>http://localhost:1313/posts/6349032/</guid>
-      <description>This is my learning journey blog on how I leverage AI tools Claude and NotebookLM to accelerate my learning, technical writing creation and create better documentation</description>
-    </item>
-    <item>
       <title>Understanding GPU Benchmark Numbers: What 60 FPS Actually Means</title>
-      <link>http://localhost:1313/posts/b1544c4/</link>
+      <link>https://sarah-amalia.github.io/posts/b1544c4/</link>
       <pubDate>Wed, 24 Sep 2025 13:42:19 +0700</pubDate>
-      <guid>http://localhost:1313/posts/b1544c4/</guid>
+      <guid>https://sarah-amalia.github.io/posts/b1544c4/</guid>
       <description>KEY TAKEAWAYS • 60 FPS is the sweet spot for most gamers, offering a major improvement over 30 FPS. • Frame consistency (1% lows) matters more than peak FPS for a smooth experience. • Resolution is a major performance factor; a stable 60 FPS at 1440p can feel better than an inconsistent 100 FPS at 4K. • Match your GPU&amp;rsquo;s VRAM to your target resolution to future-proof your setup.</description>
     </item>
   </channel>

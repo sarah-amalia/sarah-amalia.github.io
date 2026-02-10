@@ -51,7 +51,7 @@ footer:
 # footer social link
 social:
   - name: GitHub
-    url: https://github.com/sarah-techwriter/    
+    url: https://github.com/sarah-amalia/    
     weight: 10
     params:
       icon: github

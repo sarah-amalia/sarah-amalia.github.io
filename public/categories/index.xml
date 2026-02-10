@@ -2,66 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sarah Amalia</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://sarah-amalia.github.io/categories/</link>
     <description>Recent content in Categories on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 09 Feb 2026 19:02:28 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sarah-amalia.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/categories/projects/</link>
+      <link>https://sarah-amalia.github.io/categories/projects/</link>
       <pubDate>Mon, 09 Feb 2026 19:02:28 +0700</pubDate>
-      <guid>http://localhost:1313/categories/projects/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Draft</title>
-      <link>http://localhost:1313/categories/draft/</link>
-      <pubDate>Sat, 24 Jan 2026 10:39:06 +0700</pubDate>
-      <guid>http://localhost:1313/categories/draft/</guid>
+      <guid>https://sarah-amalia.github.io/categories/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Portfolio</title>
-      <link>http://localhost:1313/categories/portfolio/</link>
+      <link>https://sarah-amalia.github.io/categories/portfolio/</link>
       <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/portfolio/</guid>
+      <guid>https://sarah-amalia.github.io/categories/portfolio/</guid>
       <description></description>
     </item>
     <item>
       <title>Documentation</title>
-      <link>http://localhost:1313/categories/documentation/</link>
+      <link>https://sarah-amalia.github.io/categories/documentation/</link>
       <pubDate>Mon, 05 Jan 2026 08:12:53 +0700</pubDate>
-      <guid>http://localhost:1313/categories/documentation/</guid>
+      <guid>https://sarah-amalia.github.io/categories/documentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Resume</title>
-      <link>http://localhost:1313/categories/resume/</link>
+      <link>https://sarah-amalia.github.io/categories/resume/</link>
       <pubDate>Sat, 03 Jan 2026 14:33:48 +0700</pubDate>
-      <guid>http://localhost:1313/categories/resume/</guid>
+      <guid>https://sarah-amalia.github.io/categories/resume/</guid>
       <description></description>
     </item>
     <item>
       <title>Journal</title>
-      <link>http://localhost:1313/categories/journal/</link>
+      <link>https://sarah-amalia.github.io/categories/journal/</link>
       <pubDate>Tue, 09 Dec 2025 13:38:07 +0700</pubDate>
-      <guid>http://localhost:1313/categories/journal/</guid>
+      <guid>https://sarah-amalia.github.io/categories/journal/</guid>
       <description></description>
     </item>
     <item>
       <title>Series of Mind</title>
-      <link>http://localhost:1313/categories/series-of-mind/</link>
+      <link>https://sarah-amalia.github.io/categories/series-of-mind/</link>
       <pubDate>Tue, 09 Dec 2025 13:38:07 +0700</pubDate>
-      <guid>http://localhost:1313/categories/series-of-mind/</guid>
+      <guid>https://sarah-amalia.github.io/categories/series-of-mind/</guid>
       <description></description>
     </item>
     <item>
       <title>Articles</title>
-      <link>http://localhost:1313/categories/articles/</link>
+      <link>https://sarah-amalia.github.io/categories/articles/</link>
       <pubDate>Wed, 26 Nov 2025 13:49:24 +0700</pubDate>
-      <guid>http://localhost:1313/categories/articles/</guid>
+      <guid>https://sarah-amalia.github.io/categories/articles/</guid>
       <description></description>
     </item>
   </channel>

@@ -5,7 +5,7 @@ draft: false
 slug: dc7206b
 description: "(unofficial) Hugo Documentation for Technical Writer"
 summary: "(unofficial) Hugo Documentation for Technical Writer"
-featured: true
+featured: false
 tags:
   - Hugo
   - Technical Documentation

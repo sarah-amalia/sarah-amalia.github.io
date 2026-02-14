@@ -31,7 +31,7 @@ My daily toolkit includes:
  
 
 ## Other Tools I've Used
-`MKDocs` `Readthedocs` `Netlify` `Postman` `Gitbook` `Zendesk` `Loom` `Figma` `Canva` `Notion` `Trello` `Linux (wsl)`
+`MKDocs` `Readthedocs` `Netlify` `Postman` `Gitbook` `Zendesk` `Loom` `Figma` `Canva` `Notion` `Linux (wsl)` `Trello` `obsidian`
 
 ---
 **Open to:**  
@@ -39,7 +39,7 @@ My daily toolkit includes:
 **Class of work:** Internship, Trainee, Full-time, freelance, or Contract.  
 **Type of Work:**
 Technical & informational documentation,  Knowledge base and Management, Help Center, Information architecture, Translation & localization.  
-**Desired Title:** Technical writer staff, Knowledge Manager, Information Architect
+
 
 ---
 #### Current Focus
@@ -50,5 +50,5 @@ Location: Indonesia
 Activites: 
 - Creating documentation projects using modern tools and frameworks
 - Learning Diátaxis documentation framework
-- Developing proficiency in Git, Linux, and documentation markup languages
+- Developing proficiency in Git, Linux, and documentation markup languages (Asciidocs, MyST, RestructuredText)
 - Preparing to contribute to open-source documentation

@@ -31,8 +31,5 @@ This is my personal space for sharing technical writing projects, tech insights,
 
 Built with <u>[GitHub](https://docs.github.com/en)</u>, <u>[Netlify](https://www.netlify.com/)</u>,<u>[Hugo](https://gohugo.io/)</u>, the <u>[Narrow theme](https://hugo-narrow-docs.vercel.app/)</u>, and <u>[Markdown](https://www.markdownguide.org/)</u>.
 
-—
-
-:fire: 
-_Always open to technical writing projects and documentation collaborations._  
-Get to know me a bit through my about and resume icon in the footer menu below.
+>[!Tip]
+> Understand how I work by visiting my [documentation process](https://remnote.com/a/My-Documentation-Process/69900ebee4f1b663cc153c82) page on remnote.

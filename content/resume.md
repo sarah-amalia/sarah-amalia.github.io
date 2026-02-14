@@ -14,7 +14,7 @@ cover:
 ---
 
 Summary  
-Detail-oriented, hands-on learning approach, and comfortable working with subject matter experts to clarify technical concepts and deliver accurate, user-focused documentation. Create structured documentation that follow organizational standard and style guides while prioritizing clarity, accuracy, and consistency.
+Detail-oriented, hands-on learning approach, and comfortable working with subject matter experts to clarify technical concepts and deliver accurate, user-focused documentation.
 
 ---
 ## EXPERIENCE

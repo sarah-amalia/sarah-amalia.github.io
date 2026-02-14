@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Feb 2026 19:02:28 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 09:23:04 +0700</lastBuildDate>
     <atom:link href="https://sarah-amalia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide</title>
+      <link>https://sarah-amalia.github.io/tags/guide/</link>
+      <pubDate>Sat, 14 Feb 2026 09:23:04 +0700</pubDate>
+      <guid>https://sarah-amalia.github.io/tags/guide/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://sarah-amalia.github.io/tags/markdown/</link>
+      <pubDate>Sat, 14 Feb 2026 09:23:04 +0700</pubDate>
+      <guid>https://sarah-amalia.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Writers</title>
+      <link>https://sarah-amalia.github.io/tags/writers/</link>
+      <pubDate>Sat, 14 Feb 2026 09:23:04 +0700</pubDate>
+      <guid>https://sarah-amalia.github.io/tags/writers/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Installation Guide</title>
       <link>https://sarah-amalia.github.io/tags/installation-guide/</link>
@@ -41,34 +62,6 @@
       <link>https://sarah-amalia.github.io/tags/user-guide/</link>
       <pubDate>Wed, 07 Jan 2026 08:44:40 +0700</pubDate>
       <guid>https://sarah-amalia.github.io/tags/user-guide/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Docs-as-Code</title>
-      <link>https://sarah-amalia.github.io/tags/docs-as-code/</link>
-      <pubDate>Mon, 05 Jan 2026 08:12:53 +0700</pubDate>
-      <guid>https://sarah-amalia.github.io/tags/docs-as-code/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://sarah-amalia.github.io/tags/hugo/</link>
-      <pubDate>Mon, 05 Jan 2026 08:12:53 +0700</pubDate>
-      <guid>https://sarah-amalia.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Static Site Generator</title>
-      <link>https://sarah-amalia.github.io/tags/static-site-generator/</link>
-      <pubDate>Mon, 05 Jan 2026 08:12:53 +0700</pubDate>
-      <guid>https://sarah-amalia.github.io/tags/static-site-generator/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technical Documentation</title>
-      <link>https://sarah-amalia.github.io/tags/technical-documentation/</link>
-      <pubDate>Mon, 05 Jan 2026 08:12:53 +0700</pubDate>
-      <guid>https://sarah-amalia.github.io/tags/technical-documentation/</guid>
       <description></description>
     </item>
     <item>
@@ -174,13 +167,6 @@
       <link>https://sarah-amalia.github.io/tags/developer-docs/</link>
       <pubDate>Sat, 06 Sep 2025 09:54:04 +0700</pubDate>
       <guid>https://sarah-amalia.github.io/tags/developer-docs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown</title>
-      <link>https://sarah-amalia.github.io/tags/markdown/</link>
-      <pubDate>Sat, 06 Sep 2025 09:54:04 +0700</pubDate>
-      <guid>https://sarah-amalia.github.io/tags/markdown/</guid>
       <description></description>
     </item>
   </channel>

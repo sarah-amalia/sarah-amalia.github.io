@@ -6,7 +6,7 @@ slug: 99a204e
 description: "Installation Guide sample project for Remnote application."
 summary: "Installation Guide sample project for Remnote application."
 featured: true
-weight: 1
+weight: 2
 tags:
   - Installation Guide
   - Technical Writing

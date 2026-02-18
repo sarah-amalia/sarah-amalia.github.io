@@ -5,7 +5,7 @@ draft: false
 slug: 628fb53
 description: "Complete API reference documentation for The Bored API, a RESTful service providing random activity suggestions"
 summary: "Professional API documentation with quick start guide, endpoint reference, and code examples for developers"
-featured: true
+featured: false
 tags:
   - API reference documentation
   - technical writing

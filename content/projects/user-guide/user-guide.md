@@ -4,7 +4,7 @@ date: 2026-01-07T08:44:40+07:00
 draft: false
 slug: coursercorrect-user-guide
 description: "Comprehensive end-user documentation for CourseCorrect, an AI-powered course discovery platform"
-summary: "Independent user guide covering account setup, features, workflows, troubleshooting, and FAQ for CourseCorrect platform"
+summary: "Comprehensive user guide covering account setup, features, workflows, troubleshooting, FAQ, and contact center for CourseCorrect platform"
 featured: false
 tags:
   - end-user documentation
@@ -15,9 +15,9 @@ categories:
   - projects
 cover: "/images/user-guide-coursecorrect.png"
 # Project-specific fields
-github: "https://github.com/sarah-techwriter/coursecorrect-user-guide"
-demo: "https://sarah-techwriter.github.io/coursecorrect-user-guide/"
-website: "https://sarah-techwriter.github.io/coursecorrect-user-guide/"
+github: "https://github.com/sarah-amalia/coursecorrect-user-guide"
+demo: "https://sarah-amalia.github.io/coursecorrect-user-guide/"
+website: "https://sarah-amalia.github.io/coursecorrect-user-guide/"
 tech_stack:
   - MKDocs
   - GitHub Pages

@@ -20,7 +20,7 @@ An English graduate with strong passion for technical writing and documentation.
 
 ## My Toolkit
 My daily toolkit includes:
-- CLI
+- Version Control
 - GitHub
 - VS Code, MarkText
 - Hugo and Markdown, Mermaid, HTML
@@ -29,6 +29,8 @@ My daily toolkit includes:
 - Windows
 - Google Suite
  
+ ### Technical Knowledge 
+ `DDLC` `SDLC` `Information Architecture` `Docs-as-Code` `CLI`
 
 ## Other Tools I've Used
 `MKDocs` `Readthedocs` `Netlify` `Postman` `Gitbook` `Zendesk` `Loom` `Figma` `Canva` `Notion` `Linux (wsl)` `Trello` `obsidian`

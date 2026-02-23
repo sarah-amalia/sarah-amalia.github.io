@@ -5,7 +5,7 @@ title: "Home"
 author:
   name: "Sarah Amalia"
   title: "Technical Writer"
-  description: "Loves turning complex information into clear, structured documentation."
+  description: "Loves turning complex information into  clear, structured, and easy-to-understand content."
   avatar: "/images/sa.png"
   social:
     - name: "linkedin"
@@ -31,5 +31,5 @@ This is my personal space for sharing technical writing projects, tech insights,
 
 Built with <u>[GitHub](https://docs.github.com/en)</u>, <u>[Netlify](https://www.netlify.com/)</u>,<u>[Hugo](https://gohugo.io/)</u>, the <u>[Narrow theme](https://hugo-narrow-docs.vercel.app/)</u>, and <u>[Markdown](https://www.markdownguide.org/)</u>.
 
->[!Tip]
-> Understand how I work by visiting my [documentation process](https://remnote.com/a/My-Documentation-Process/69900ebee4f1b663cc153c82) page on remnote.
+>[!Note]
+> Visit my [documentation process](https://remnote.com/a/My-Documentation-Process/69900ebee4f1b663cc153c82) page on remnote to understand how I develop my portfolio projects.

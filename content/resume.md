@@ -13,8 +13,8 @@ categories:
 cover:
 ---
 
-Summary  
-Detail-oriented, hands-on learning approach, and comfortable working with subject matter experts to clarify technical concepts and deliver accurate, user-focused documentation.
+Profile Summary  
+Detail-oriented, hands-on learning approach, and comfortable working with subject matter experts to clarify technical concepts and deliver clear, accurate documentation.
 
 ---
 ## EXPERIENCE

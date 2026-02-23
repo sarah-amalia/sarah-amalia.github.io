@@ -28,6 +28,10 @@ tech_stack:
   - Git
   - GitHub
 status: "completed"  # Options: completed, in_progress, planning
+lightbox:
+  enabled: true
+justified_gallery:
+  enabled: true
 ---
 
 > [!Tip] 
@@ -109,18 +113,21 @@ GitHub stores Git repositories online. Without Git, GitHub has nothing to store.
 | `git branch` | Lists all branches in the repository. | Run this to confirm which branch you are currently on before making changes. |
 | `git log` | Displays the full commit history. | Use this to review what changed, who made the change, and when it was committed. |
 
-**Quick Workflow (Common Sequence)**  
-1. `git status`
-2. `git add .`
-3. `git commit -m "message"`
-4. `git push origin main`--or just `git push`after the first push.
-5. Repeat--and always run `git pull` before starting new work.
+---
+## Visual Reference
+For quick references summary, the following is the common workflow sequence.
+
+_*To download: click the image > right click the image > save image as [name your file] (on your pop up file explorer)_
+
+<a href="/images/git-common-sequence.png">
+<img src="/images/git-common-sequence.png" alt="Git Common Sequence" width="150">
+</a>
 
 ---
 _Thank you for visiting my quick reference guide for git and github. I am open to any feedback for this quick reference guide by sending me email through the home page on this website._
 
 For more detailed information, you may visit the resources below:
-- <u>[gittutorial Documentation](https://git-scm.com/docs/gittutorial)</u>
+- <u>[gittutorial Documentation][1]</u>
 - <u>[GitHub--Git Guides](https://github.com/git-guides)</u>
 - <u>[GitHub Docs](https://docs.github.com/en)</u>
 - <u>[uidaholib-Get Git!](https://uidaholib.github.io/get-git/)</u>
@@ -130,3 +137,5 @@ And for best practice:
 - <u>[Codedex-Git Github](https://www.codedex.io/git-github)</u>
 
 ---
+
+[1]: https://git-scm.com/docs/gittutorial

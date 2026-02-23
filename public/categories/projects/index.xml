@@ -6,7 +6,7 @@
     <description>Recent content in Projects on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Feb 2026 09:06:19 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 09:20:07 +0700</lastBuildDate>
     <atom:link href="https://sarah-amalia.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Guide for Writers and Beginners</title>
@@ -30,6 +30,13 @@
       <description>Quick Reference Guide</description>
     </item>
     <item>
+      <title>Help Center FAQ project</title>
+      <link>https://sarah-amalia.github.io/projects/e346dbb/</link>
+      <pubDate>Mon, 23 Feb 2026 09:20:07 +0700</pubDate>
+      <guid>https://sarah-amalia.github.io/projects/e346dbb/</guid>
+      <description>Structured FAQ documentation for CourseCorrect covering general questions, account access, features, pricing, privacy, and technical support.</description>
+    </item>
+    <item>
       <title>Bored API Documentation</title>
       <link>https://sarah-amalia.github.io/projects/628fb53/</link>
       <pubDate>Sat, 06 Sep 2025 09:54:04 +0700</pubDate>
@@ -41,7 +48,7 @@
       <link>https://sarah-amalia.github.io/projects/coursercorrect-user-guide/</link>
       <pubDate>Wed, 07 Jan 2026 08:44:40 +0700</pubDate>
       <guid>https://sarah-amalia.github.io/projects/coursercorrect-user-guide/</guid>
-      <description>Independent user guide covering account setup, features, workflows, troubleshooting, and FAQ for CourseCorrect platform</description>
+      <description>Comprehensive user guide covering account setup, features, workflows, troubleshooting, FAQ, and contact center for CourseCorrect platform</description>
     </item>
   </channel>
 </rss>

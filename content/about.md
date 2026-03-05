@@ -54,3 +54,5 @@ Activites:
 - Learning Diátaxis documentation framework
 - Developing proficiency in Git, Linux, and documentation markup languages (Asciidocs, MyST, RestructuredText)
 - Preparing to contribute to open-source documentation
+
+

@@ -13,10 +13,6 @@ categories:
 cover:
 ---
 
-Profile Summary  
-Detail-oriented, hands-on learning approach, and comfortable working with subject matter experts to clarify technical concepts and deliver clear, accurate documentation.
-
----
 ## EXPERIENCE
 **Stakeholder Relations (Internship)**  
 PT Angkasa Pura Indonesia – Yogyakarta International Airport  

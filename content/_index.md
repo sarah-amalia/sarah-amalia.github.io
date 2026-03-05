@@ -33,3 +33,4 @@ Built with <u>[GitHub](https://docs.github.com/en)</u>, <u>[Netlify](https://www
 
 >[!Note]
 > Visit my [documentation process](https://remnote.com/a/My-Documentation-Process/69900ebee4f1b663cc153c82) page on remnote to understand how I develop my portfolio projects.
+

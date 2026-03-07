@@ -7,14 +7,12 @@ description:
 summary: Building my technical writing portfolio from scratch while battling my imposter syndrome.
 tags:
   - technical writing
-  - career transition
-  - learning journey
 categories:
   - Articles
-cover: https://cdn-images-1.medium.com/max/800/0*D-LSHJy8v0klfrIr
-author: Sarah Amalia
+cover:
+author:
 comments:
-  enabled: true
+  enabled: false
   system: "giscus"
 ---
 Read on my [Medium](https://vpofsr.medium.com/how-i-am-jumping-into-technical-writing-with-zero-tech-background-bc102a656258)
@@ -91,3 +89,6 @@ If you are in a similar boat—no tech background and experience, wondering if y
 And maybe that is the most technical writing thing of all: documenting the process, even when I am still in the middle of it. Please take all of this writing as my learning journal while I am in my technical writer transition mode.
 
 ---
+`Hi, thank you for reading my notes! My name is Sarah. I love note-making, free-writing, and am always interested in exploring how system and product works. I currently developing my technical knowledge in documentation focus.` 
+
+`If you ever want to chat or give me any feedback for my career growth, send me email message on the home page.`

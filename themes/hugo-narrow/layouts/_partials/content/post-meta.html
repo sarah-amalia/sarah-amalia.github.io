@@ -7,21 +7,9 @@
 
 
 <div class="post-meta">
-  <!-- 文章标题 -->
-  <h1 class="text-foreground mb-6 text-3xl leading-tight font-bold md:text-4xl">
-    {{ .Title }}
-  </h1>
-
-  <!-- 文章摘要 -->
-  {{ if .Params.summary }}
-    <div class="text-muted-foreground mb-6 text-lg leading-relaxed">
-      {{ .Params.summary | plainify }}
-    </div>
-  {{ end }}
-
 
   <!-- 元信息区域 -->
-  <div class="bg-card border-border flex flex-col gap-4 rounded-xl border p-6">
+  <div class="flex flex-col gap-4">
     <!-- 发布时间和阅读时间 -->
     <div
       class="text-muted-foreground flex flex-wrap items-center gap-4 text-sm">
@@ -125,5 +113,20 @@
       </div>
     {{ end }}
 
+    
+
   </div>
+  
+<!-- 文章标题 -->
+  <h1 class="text-foreground mb-2 text-3xl leading-tight font-bold md:text-4xl pt-2">
+    {{ .Title }}
+  </h1>
+
+  <!-- 文章摘要 -->
+  {{ if .Params.summary }}
+    <div class="text-muted-foreground mb-6 text-lg leading-relaxed">
+      {{ .Params.summary | plainify }}
+    </div>
+  {{ end }}
+
 </div>

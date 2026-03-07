@@ -14,8 +14,8 @@ links:
     description: "The world's largest code hosting platform. "
 
 ---
-Hi, I'm Sarah 
 
+## Hi, I'm Sarah 
 An English graduate with strong passion for technical writing and documentation. I'm fascinated by how systems work and passionate about making complex information easy to understand for both technical or non-technical audiences.  
 
 ## My Toolkit

@@ -79,3 +79,8 @@ Planned improvements:
 
 [1]: https://mcshelby.github.io/hugo-theme-relearn/introduction/quickstart/
 [2]: https://markdown-guide-sarah.netlify.app/
+
+---
+`Hi, thank you for visiting my project! My name is Sarah. I love note-making, free-writing, and am always interested in exploring how system and product works. I currently developing my technical knowledge in documentation focus.` 
+
+`If you ever want to chat or give me any feedback for my career growth, send me email message on the home page.`

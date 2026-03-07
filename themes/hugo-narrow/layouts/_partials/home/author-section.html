@@ -4,7 +4,7 @@
 
 {{ if $author }}
   <section class="author-section mb-12">
-    <div class="bg-card border-border rounded-xl border p-8 shadow-sm">
+    <div class="py-4">
       <div
         class="flex flex-col items-center gap-6 text-center md:flex-row md:items-start md:text-left">
         <!-- 头像 -->
@@ -44,13 +44,13 @@
           <!-- 社交链接 -->
           {{ if $author.social }}
             <div
-              class="flex flex-wrap justify-center gap-3 md:justify-start">
+              class="flex flex-wrap justify-center gap-6 md:justify-start">
               {{ range $author.social }}
                 <a
                   href="{{ .url }}"
                   target="_blank"
                   rel="noopener noreferrer"
-                  class="bg-muted text-muted-foreground hover:text-primary hover:bg-primary/10 focus:ring-primary/20 inline-flex items-center gap-2 rounded-lg px-3 py-2 transition-all duration-300 ease-out hover:-translate-y-0.5 hover:scale-105 focus:ring-2 focus:outline-none"
+                  class="text-muted-foreground hover:text-primary focus:ring-primary/20 inline-flex items-center gap-2 transition-all duration-300 ease-out hover:-translate-y-0.5 hover:scale-105 focus:ring-2 focus:outline-none"
                   title="{{ .name }}">
                   {{ if .icon }}
                     {{ partial "features/icon.html" (dict "name" .icon "size" "sm" "ariaLabel" .name) }}
@@ -63,6 +63,7 @@
         </div>
       </div>
     </div>
+    <div class="border-border border-t mt-8"></div>
   </section>
 {{ end }}
 

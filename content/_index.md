@@ -4,7 +4,7 @@ date:
 title: "Home"
 author:
   name: "Sarah Amalia"
-  title: "Technical Writer - Product & Software Documentation"
+  title: "Technical Writer | Product & Software Documentation"
   description: "Loves turning complex information into  clear, structured, and easy-to-understand content."
   avatar: "/images/sa.png"
   social:

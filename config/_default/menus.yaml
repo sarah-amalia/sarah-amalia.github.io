@@ -15,44 +15,11 @@ main:
     params:
       icon: archive
 
-# footer menu
-footer:
-  - name: Resume
-    pageRef: /resume
-    weight: 20
-    params:
-      icon: resume
-  - name: About
-    pageRef: /about
-    weight: 10
-    params:
-      icon: About
-  - name: Contact
-    url: "mailto:sarahamalia.tw@gmail.com"
-    weight: 30
-    params:
-      icon: contact
-  - name: RSS Feed
-    url: /index.xml
-    weight: 40
-    params:
-      icon: rss
 
 # footer social link
 social:
-  - name: GitHub
-    url: https://github.com/sarah-amalia/    
-    weight: 10
+  - name: RSS
+    url: /index.xml
+    weight: 50
     params:
-      icon: github
-  - name: LinkedIn
-    url: https://linkedin.com/in/amaliassarah/
-    weight: 30
-    params:
-      icon: linkedin
-  - name: Email
-    url: mailto:sarahamalia.tw@gmail.com
-    weight: 40
-    params:
-      icon: email
-
+      icon: rss

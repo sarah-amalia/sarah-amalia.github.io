@@ -100,7 +100,8 @@ home:
   contentOrder:
     - author-section
     - page-content
-    - featured-projects.html
+    - quick-links
+    - featured-projects
     - recent-posts
     
 

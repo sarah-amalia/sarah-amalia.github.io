@@ -14,56 +14,12 @@
     </div>
 
     <!-- About content -->
-    <div id="about-content" style="display:none" class="prose prose-neutral dark:prose-invert max-w-none pt-6">
-      <p>Hi, I'm Sarah</p>
-      <p>An English graduate with strong passion for technical writing and documentation. I'm fascinated by how systems work and passionate about making complex information easy to understand for both technical or non-technical audiences.</p>
-      <h2>My Toolkit</h2>
-      <p>My daily toolkit includes: Version Control, GitHub, VS Code, MarkText, Hugo and Markdown, Mermaid, HTML, Remnote, Greenshot, Windows, Google Suite</p>
-      <h3>Technical Knowledge</h3>
-      <p><code>DDLC</code> <code>SDLC</code> <code>Information Architecture</code> <code>Docs-as-Code</code> <code>CLI</code></p>
-      <h2>Other Tools I've Used</h2>
-      <p><code>MKDocs</code> <code>Readthedocs</code> <code>Netlify</code> <code>Postman</code> <code>Gitbook</code> <code>Zendesk</code> <code>Loom</code> <code>Figma</code> <code>Canva</code> <code>Notion</code> <code>Linux (wsl)</code> <code>Trello</code> <code>Obsidian</code></p>
-      <hr>
-      <p><strong>Open to:</strong><br>
-      <strong>Location:</strong> Indonesia or remote worldwide<br>
-      <strong>Class of work:</strong> Internship, Trainee, Full-time, Freelance, or Contract.<br>
-      <strong>Type of Work:</strong> Technical &amp; informational documentation, Knowledge base and Management, Help Center, Information architecture, Translation &amp; localization.</p>
-      <hr>
-      <h4>Current Focus</h4>
-      <p>Actively developing technical writing skills<br>
-      Date: September 2025 - Present | Location: Indonesia</p>
-      <ul>
-        <li>Creating documentation projects using modern tools and frameworks</li>
-        <li>Learning Diataxis documentation framework</li>
-        <li>Developing proficiency in Git, Linux, and documentation markup languages</li>
-        <li>Preparing to contribute to open-source documentation</li>
-      </ul>
-    </div>
+<div id="about-content" style="display:none" class="prose prose-neutral dark:prose-invert max-w-none pt-6">
+  {{ with site.GetPage "/about" }}{{ .Content }}{{ end }}
+</div>
 
     <!-- Resume content -->
-    <div id="resume-content" style="display:none" class="prose prose-neutral dark:prose-invert max-w-none pt-6">
-      <h2>EXPERIENCE</h2>
-      <p><strong>Stakeholder Relations (Internship)</strong><br>
-      PT Angkasa Pura Indonesia - Yogyakarta International Airport<br>
-      September 2024 - December 2024 | <code>onsite</code></p>
-      <ul>
-        <li>Collaborated with SME to translate and localize technical e-book on airport architectural design, adapting complex terminology for English readers.</li>
-        <li>Contributed content to official airport bulletin publication (2nd edition, 2025).</li>
-        <li>Developed a monthly content calendar for social media.</li>
-        <li>Tracked and classified media sentiment related to airport operations.</li>
-      </ul>
-      <hr>
-      <h2>EDUCATION</h2>
-      <p><strong>Jenderal Soedirman University</strong><br>
-      Associate's Degree - English Language<br>
-      2022 - 2025<br>
-      GPA: 3.74/4.00</p>
-      <hr>
-      <h4>Professional Development</h4>
-      <ul>
-        <li><strong><a href="https://developers.google.com/tech-writing">Google</a></strong> (2025) - Technical Writing Course</li>
-        <li><strong><a href="https://payhip.com/b/kJLPG">Technical Communication Center</a></strong> (2025) - Technical Writing Course | Credential ID V6B727wzra</li>
-      </ul>
-    </div>
-  </div>
+<div id="resume-content" style="display:none" class="prose prose-neutral dark:prose-invert max-w-none pt-6">
+  {{ with site.GetPage "/resume" }}{{ .Content }}{{ end }}
+</div>
 {{ end }}

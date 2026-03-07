@@ -1,25 +1,20 @@
-{{/* 文章列表行组件 - 用于主文章列表显示
-  @context {page} .page 文章页面对象
-*/}}
-
 {{ $page := .page }}
 
-{{/* 文章列表行 */}}
-<article class="group">
-  <a href="{{ $page.RelPermalink }}" class="flex flex-col gap-1 py-3 border-b border-border hover:text-primary transition-colors duration-200">
-    <!-- 文章标题 -->
-    <span class="text-foreground group-hover:text-primary font-medium leading-snug">
+<article>
+  <a href="{{ $page.RelPermalink }}" 
+     class="flex flex-col gap-1 py-3 border-b border-border transition-colors duration-200"
+     onmouseover="this.querySelector('span').style.color='var(--color-primary)'"
+     onmouseout="this.querySelector('span').style.color=''">
+    <span class="text-foreground font-medium leading-snug" style="transition: color 0.2s">
       {{ $page.Title }}
     </span>
-
-    <!-- 日期 + 阅读时间 -->
     <div class="flex items-center gap-3 text-sm text-muted-foreground">
-  <time datetime="{{ $page.Date.Format "2006-01-02" }}">
-    {{ $page.Date.Format "2006" }}
-  </time>
-  {{ if $page.ReadingTime }}
-    <span>{{ $page.ReadingTime }} min read</span>
-  {{ end }}
-</div>
+      <time datetime="{{ $page.Date.Format "2006-01-02" }}">
+        {{ $page.Date.Format "2006" }}
+      </time>
+      {{ if $page.ReadingTime }}
+        <span>{{ $page.ReadingTime }} min read</span>
+      {{ end }}
+    </div>
   </a>
 </article>

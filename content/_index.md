@@ -7,6 +7,11 @@ author:
   title: "Technical Writer | Product & Software Documentation"
   description: "1 Year Experience - 7+ Completed Projects"
   avatar: "/images/sa.png"
+  stats:
+    - value: "~1"
+      label: "Year of Experience"
+    - value: "7+"
+      label: "Completed Projects"
   social:
     - name: ""
       url: "https://www.linkedin.com/in/amaliassarah/"
@@ -26,7 +31,6 @@ author:
 ---
 
 About This Site
-
 This is my personal space for sharing technical writing projects, tech insights, and sometimes journal entries.
 
 Built with <u>[GitHub](https://docs.github.com/en)</u>, <u>[Netlify](https://www.netlify.com/)</u>,<u>[Hugo](https://gohugo.io/)</u>, the <u>[Narrow theme](https://hugo-narrow-docs.vercel.app/)</u>, and <u>[Markdown](https://www.markdownguide.org/)</u>.

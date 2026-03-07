@@ -184,8 +184,8 @@
     
       <link
         rel="stylesheet"
-        href="/css/compiled.min.1eecc5a4a4b67ad454f5dccad42be0f4a729fa5faa171d473c48406a902f7962.css"
-        integrity="sha256-HuzFpKS2etRU9dzK1Cvg9Kcp&#43;l&#43;qFx1HPEhAapAveWI="
+        href="/css/compiled.min.3b4f1e62308a0a1982a91e83edf25c8ec8add5524078c9a2b8be0495b14731cb.css"
+        integrity="sha256-O08eYjCKChmCqR6D7fJcjsit1VJAeMmiuL4ElbFHMcs="
         crossorigin="anonymous" />
     
   
@@ -266,7 +266,7 @@
 
 
 
-
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <script>
       
       (function() {
@@ -766,7 +766,7 @@
 
 
     
-    <main class="mx-auto max-w-2xl px-4 py-6">
+    <main class="mx-auto max-w-2xl px-6 py-6">
       
   
   <nav
@@ -888,25 +888,22 @@
       
         
 
-
-
-
-<article class="group">
-  <a href="/projects/afb4091/" class="flex flex-col gap-1 py-3 border-b border-border hover:text-primary transition-colors duration-200">
-    
-    <span class="text-foreground group-hover:text-primary font-medium leading-snug">
+<article>
+  <a href="/projects/afb4091/" 
+     class="flex flex-col gap-1 py-3 border-b border-border transition-colors duration-200"
+     onmouseover="this.querySelector('span').style.color='var(--color-primary)'"
+     onmouseout="this.querySelector('span').style.color=''">
+    <span class="text-foreground font-medium leading-snug" style="transition: color 0.2s">
       Markdown Guide for Writers and Beginners
     </span>
-
-    
     <div class="flex items-center gap-3 text-sm text-muted-foreground">
-  <time datetime="2026-02-14">
-    2026
-  </time>
-  
-    <span>1 min read</span>
-  
-</div>
+      <time datetime="2026-02-14">
+        2026
+      </time>
+      
+        <span>1 min read</span>
+      
+    </div>
   </a>
 </article>
       
@@ -936,14 +933,14 @@
 
 
     
-    <div class="flex flex-col items-center justify-between gap-4 md:flex-row">
+    <div class="flex flex-row items-center justify-between gap-4">
       
-      <div class="text-muted-foreground text-sm text-center md:text-left">
+      <div class="text-muted-foreground text-sm text-left">
         <p class="mb-2">
           &copy; 2026 Sarah Amalia.
           All rights reserved.
         </p>
-        <p class="flex flex-wrap items-center justify-center gap-1 md:justify-start">
+        <p class="flex flex-wrap items-center justify-start gap-1">
           <span>Powered by</span>
           <a 
             href="https://gohugo.io/" 

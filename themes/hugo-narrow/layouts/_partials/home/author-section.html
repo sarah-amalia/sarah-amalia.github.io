@@ -1,69 +1,49 @@
-{{/* 作者信息区域 */}}
-{{/* 优先使用页面配置，否则回退站点配置 */}}
+{{/* author section */}}
 {{ $author := .Params.author | default site.Params.author }}
-
 {{ if $author }}
-  <section class="author-section mb-12">
+  <section class="author-section mb-8">
     <div class="py-4">
-      <div
-        class="flex flex-col items-center gap-6 text-center md:flex-row md:items-start md:text-left">
-        <!-- 头像 -->
+      <div class="flex flex-row items-center gap-6 text-left">
         <div class="shrink-0">
           {{ if $author.avatar }}
-            <img
-              src="{{ $author.avatar }}"
-              alt="{{ $author.name | default site.Title }}"
-              class="border-primary/20 h-24 w-24 rounded-full border-4 object-cover shadow-lg" />
+            <div class="p-1 rounded-full border-2 border-border bg-background">
+              <img src="{{ $author.avatar }}" alt="{{ $author.name | default site.Title }}" class="h-24 w-24 rounded-full object-cover" />
+            </div>
           {{ else }}
-            <!-- 默认头像：使用作者姓名首字母 -->
-            <div
-              class="bg-primary text-primary-foreground flex h-24 w-24 items-center justify-center rounded-full text-2xl font-bold shadow-lg">
-              {{ substr ($author.name | default site.Title) 0 1 | upper }}
+            <div class="p-1 rounded-full border-2 border-border bg-background">
+              <div class="bg-primary text-primary-foreground flex h-24 w-24 items-center justify-center rounded-full text-2xl font-bold">
+                {{ substr ($author.name | default site.Title) 0 1 | upper }}
+              </div>
             </div>
           {{ end }}
         </div>
-
-        <!-- 作者信息 -->
-        <div class="min-w-0 flex-1">
-          <h1 class="text-foreground mb-2 text-3xl font-bold">
-            {{ $author.name | default site.Title }}
-          </h1>
-
+        <div class="min-w-0 flex-1 flex flex-col gap-2">
+          <h1 class="text-foreground text-2xl font-bold tracking-tight leading-none">{{ $author.name | default site.Title }}</h1>
           {{ if $author.title }}
-            <p class="text-muted-foreground mb-3 text-lg">
-              {{ $author.title }}
-            </p>
+            <p class="text-muted-foreground text-sm">{{ $author.title }}</p>
           {{ end }}
-
-          {{ if $author.description }}
-            <p class="text-foreground mb-4 leading-relaxed">
-              {{ $author.description }}
-            </p>
-          {{ end }}
-
-          <!-- 社交链接 -->
           {{ if $author.social }}
-            <div
-              class="flex flex-wrap justify-center gap-6 md:justify-start">
+            <div class="flex flex-wrap justify-start gap-4 mt-1">
               {{ range $author.social }}
-                <a
-                  href="{{ .url }}"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  class="text-muted-foreground hover:text-primary focus:ring-primary/20 inline-flex items-center gap-2 transition-all duration-300 ease-out hover:-translate-y-0.5 hover:scale-105 focus:ring-2 focus:outline-none"
-                  title="{{ .name }}">
-                  {{ if .icon }}
-                    {{ partial "features/icon.html" (dict "name" .icon "size" "sm" "ariaLabel" .name) }}
-                  {{ end }}
-                  <span class="text-sm font-medium">{{ .name }}</span>
+                <a href="{{ .url }}" target="_blank" rel="noopener noreferrer" class="text-muted-foreground hover:text-primary transition-colors duration-200" title="{{ .name }}">
+                  {{ if .icon }}{{ partial "features/icon.html" (dict "name" .icon "size" "md" "ariaLabel" .name) }}{{ end }}
                 </a>
               {{ end }}
             </div>
           {{ end }}
         </div>
       </div>
+      {{ if $author.stats }}
+        <div class="mt-6 flex justify-center" style="gap: 6rem;">
+          {{ range $author.stats }}
+            <div class="text-center">
+              <p class="text-foreground text-2xl font-bold">{{ .value }}</p>
+              <p class="text-muted-foreground text-sm mt-0.5">{{ .label }}</p>
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
     </div>
-    <div class="border-border border-t mt-8"></div>
+    <div class="border-border border-t mt-4"></div>
   </section>
 {{ end }}
-

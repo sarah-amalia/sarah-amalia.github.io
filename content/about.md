@@ -16,7 +16,7 @@ links:
 ---
 
 ## Hi, I'm Sarah 
-An English graduate with strong passion for technical writing and documentation. I'm fascinated by how systems work and passionate about making complex information easy to understand for both technical or non-technical audiences.  
+An English graduate with strong passion for technical writing and documentation. I am enjoying the process of turning complex information into clear, structured, easy-to-understand for both technical or non technical audiences.
 
 ## My Toolkit
 My daily toolkit includes:
@@ -37,22 +37,14 @@ My daily toolkit includes:
 
 ---
 **Open to:**  
-**Location:** Indonesia or remote worldwide  
-**Class of work:** Internship, Trainee, Full-time, freelance, or Contract.  
 **Type of Work:**
 Technical & informational documentation,  Knowledge base and Management, Help Center, Information architecture, Translation & localization.  
 
 
 ---
 #### Current Focus
-Actively developing technical writing skills  
+Actively developing technical writing & documentation expertise    
 Date: September 2025 - Present  
-Location: Indonesia
 
-Activites: 
-- Creating documentation projects using modern tools and frameworks
-- Learning Diátaxis documentation framework
-- Developing proficiency in Git, Linux, and documentation markup languages (Asciidocs, MyST, RestructuredText)
-- Preparing to contribute to open-source documentation
 
 

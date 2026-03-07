@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation on Sarah Amalia</title>
-    <link>https://sarah-amalia.github.io/categories/documentation/</link>
+    <link>http://localhost:1313/categories/documentation/</link>
     <description>Recent content in Documentation on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 14 Feb 2026 09:23:04 +0700</lastBuildDate>
-    <atom:link href="https://sarah-amalia.github.io/categories/documentation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/documentation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Guide for Writers and Beginners</title>
-      <link>https://sarah-amalia.github.io/projects/afb4091/</link>
+      <link>http://localhost:1313/projects/afb4091/</link>
       <pubDate>Sat, 14 Feb 2026 09:23:04 +0700</pubDate>
-      <guid>https://sarah-amalia.github.io/projects/afb4091/</guid>
+      <guid>http://localhost:1313/projects/afb4091/</guid>
       <description>A simple and easy-to-understand guide for writers and beginner in Markdown.</description>
     </item>
   </channel>

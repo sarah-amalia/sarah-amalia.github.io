@@ -12,8 +12,8 @@
     </div>
 
     <!-- 项目网格 - 响应式布局 -->
-    <div class="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-      {{ range first 3 $featuredProjects }}
+    <div class="grid gap-4 grid-cols-1 sm:grid-cols-2 ">
+      {{ range first 4 $featuredProjects }}
         {{ $project := . }}
         
         {{/* 使用通用图片处理器 */}}

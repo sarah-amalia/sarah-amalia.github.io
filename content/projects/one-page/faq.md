@@ -5,7 +5,7 @@ draft: false
 slug: e346dbb
 description: Structured FAQ documentation for CourseCorrect covering general questions, account access, features, pricing, privacy, and technical support.
 summary: Structured FAQ documentation for CourseCorrect covering general questions, account access, features, pricing, privacy, and technical support.
-featured: false
+featured: true
 weight: 4
 tags:
   - project

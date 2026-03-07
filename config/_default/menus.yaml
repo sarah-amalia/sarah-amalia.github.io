@@ -1,14 +1,4 @@
 main:
-  - name: nav.posts
-    pageRef: /posts
-    weight: 25
-    params:
-      icon: posts
-  - name: nav.projects
-    pageRef: /projects
-    weight: 20
-    params:
-      icon: projects
   - name: nav.categories
     pageRef: /categories
     weight: 30

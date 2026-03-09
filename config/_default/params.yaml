@@ -5,11 +5,11 @@ defaultAuthor: "Sarah Amalia"
 language: "en-US"
 shortName: "Sarah"  # PWA
 images:
-  - "/favicon.svg"
+  - "/images/sa.png/"
 
 # Favicon
 favicon:
-  png: "/favicon.svg"  # PNG format favicon (recommended)
+  png: "/images/sa.png/"  # PNG format favicon (recommended)
 
 # Author info
 author:
@@ -46,7 +46,7 @@ dock: "scroll"
 
 # TOC (Table of Contents)
 toc:
-  enabled: false         # Enable or disable TOC globally
+  enabled: falsez         # Enable or disable TOC globally
   position: "left"      # Options: card left right
   maxWidth: "280px"
   maxHeight: "80vh"

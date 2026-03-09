@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Help Center on Sarah Amalia</title>
-    <link>https://sarah-amalia.github.io/tags/help-center/</link>
+    <link>http://localhost:1313/tags/help-center/</link>
     <description>Recent content in Help Center on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 23 Feb 2026 09:20:07 +0700</lastBuildDate>
-    <atom:link href="https://sarah-amalia.github.io/tags/help-center/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/help-center/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Help Center FAQ project</title>
-      <link>https://sarah-amalia.github.io/projects/e346dbb/</link>
+      <link>http://localhost:1313/projects/e346dbb/</link>
       <pubDate>Mon, 23 Feb 2026 09:20:07 +0700</pubDate>
-      <guid>https://sarah-amalia.github.io/projects/e346dbb/</guid>
+      <guid>http://localhost:1313/projects/e346dbb/</guid>
       <description>Structured FAQ documentation for CourseCorrect covering general questions, account access, features, pricing, privacy, and technical support.</description>
     </item>
   </channel>

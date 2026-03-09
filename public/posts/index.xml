@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts&#39; on Sarah Amalia</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://sarah-amalia.github.io/posts/</link>
     <description>Recent content in Posts&#39; on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 09 Dec 2025 13:38:07 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sarah-amalia.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rumination</title>
-      <link>http://localhost:1313/posts/544ef69/</link>
+      <link>https://sarah-amalia.github.io/posts/544ef69/</link>
       <pubDate>Tue, 09 Dec 2025 13:38:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/544ef69/</guid>
+      <guid>https://sarah-amalia.github.io/posts/544ef69/</guid>
       <description>One of a series of mind</description>
     </item>
     <item>
       <title>How I am Jumping into Technical Writing With Zero Tech Background</title>
-      <link>http://localhost:1313/posts/b8f247c/</link>
+      <link>https://sarah-amalia.github.io/posts/b8f247c/</link>
       <pubDate>Wed, 26 Nov 2025 13:49:24 +0700</pubDate>
-      <guid>http://localhost:1313/posts/b8f247c/</guid>
+      <guid>https://sarah-amalia.github.io/posts/b8f247c/</guid>
       <description>Building my technical writing portfolio from scratch while battling my imposter syndrome.</description>
     </item>
     <item>
       <title>Understanding GPU Benchmark Numbers: What 60 FPS Actually Means</title>
-      <link>http://localhost:1313/posts/b1544c4/</link>
+      <link>https://sarah-amalia.github.io/posts/b1544c4/</link>
       <pubDate>Wed, 24 Sep 2025 13:42:19 +0700</pubDate>
-      <guid>http://localhost:1313/posts/b1544c4/</guid>
+      <guid>https://sarah-amalia.github.io/posts/b1544c4/</guid>
       <description>You&amp;rsquo;re staring at GPU benchmarks showing &amp;ldquo;85 FPS&amp;rdquo; and &amp;ldquo;127 FPS&amp;rdquo; - but what do these numbers actually mean for your gaming? Here&amp;rsquo;s how to decode those performance figures.</description>
     </item>
   </channel>

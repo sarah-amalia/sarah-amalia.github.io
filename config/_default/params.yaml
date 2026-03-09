@@ -5,7 +5,7 @@ defaultAuthor: "Sarah Amalia"
 language: "en-US"
 shortName: "Sarah"  # PWA
 images:
-  - "/images/sa.png/"
+  - "/favicon.svg"
 
 # Favicon
 favicon:
@@ -32,7 +32,7 @@ author:
 header:
   sticky: true  # Enable sticky navigation bar
   logo:
-    image: "/images/sa.png/"  # Logo path relative to static folder, leave empty to use site title first letter
+    image:  # Logo path relative to static folder, leave empty to use site title first letter
     link: "/"  # Click to home page
   # UI Components Control (header controls)
   showThemeSwitch: true      # Set to false to hide theme style switcher (palette icon)

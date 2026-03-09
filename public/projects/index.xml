@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical Writing Projects on Sarah Amalia</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://sarah-amalia.github.io/projects/</link>
     <description>Recent content in Technical Writing Projects on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 23 Feb 2026 09:20:07 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sarah-amalia.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Guide for Writers and Beginners</title>
-      <link>http://localhost:1313/projects/afb4091/</link>
+      <link>https://sarah-amalia.github.io/projects/afb4091/</link>
       <pubDate>Sat, 14 Feb 2026 09:23:04 +0700</pubDate>
-      <guid>http://localhost:1313/projects/afb4091/</guid>
+      <guid>https://sarah-amalia.github.io/projects/afb4091/</guid>
       <description>A simple and easy-to-understand guide for writers and beginner in Markdown.</description>
     </item>
     <item>
       <title>Remnote Installation Guide</title>
-      <link>http://localhost:1313/projects/99a204e/</link>
+      <link>https://sarah-amalia.github.io/projects/99a204e/</link>
       <pubDate>Mon, 09 Feb 2026 19:02:28 +0700</pubDate>
-      <guid>http://localhost:1313/projects/99a204e/</guid>
+      <guid>https://sarah-amalia.github.io/projects/99a204e/</guid>
       <description>Installation Guide sample project for Remnote application.</description>
     </item>
     <item>
       <title>Command Line, Git, and GitHub</title>
-      <link>http://localhost:1313/projects/0638703/</link>
+      <link>https://sarah-amalia.github.io/projects/0638703/</link>
       <pubDate>Wed, 18 Feb 2026 09:06:19 +0700</pubDate>
-      <guid>http://localhost:1313/projects/0638703/</guid>
+      <guid>https://sarah-amalia.github.io/projects/0638703/</guid>
       <description>Quick Reference Guide</description>
     </item>
     <item>
       <title>Help Center FAQ project</title>
-      <link>http://localhost:1313/projects/e346dbb/</link>
+      <link>https://sarah-amalia.github.io/projects/e346dbb/</link>
       <pubDate>Mon, 23 Feb 2026 09:20:07 +0700</pubDate>
-      <guid>http://localhost:1313/projects/e346dbb/</guid>
+      <guid>https://sarah-amalia.github.io/projects/e346dbb/</guid>
       <description>Structured FAQ documentation for CourseCorrect covering general questions, account access, features, pricing, privacy, and technical support.</description>
     </item>
     <item>
       <title>Bored API Documentation</title>
-      <link>http://localhost:1313/projects/628fb53/</link>
+      <link>https://sarah-amalia.github.io/projects/628fb53/</link>
       <pubDate>Sat, 06 Sep 2025 09:54:04 +0700</pubDate>
-      <guid>http://localhost:1313/projects/628fb53/</guid>
+      <guid>https://sarah-amalia.github.io/projects/628fb53/</guid>
       <description>Professional API documentation with quick start guide, endpoint reference, and code examples for developers</description>
     </item>
     <item>
       <title>User Guide - CourseCorrect</title>
-      <link>http://localhost:1313/projects/coursercorrect-user-guide/</link>
+      <link>https://sarah-amalia.github.io/projects/coursercorrect-user-guide/</link>
       <pubDate>Wed, 07 Jan 2026 08:44:40 +0700</pubDate>
-      <guid>http://localhost:1313/projects/coursercorrect-user-guide/</guid>
+      <guid>https://sarah-amalia.github.io/projects/coursercorrect-user-guide/</guid>
       <description>Comprehensive user guide covering account setup, features, workflows, troubleshooting, FAQ, and contact center for CourseCorrect platform</description>
     </item>
   </channel>

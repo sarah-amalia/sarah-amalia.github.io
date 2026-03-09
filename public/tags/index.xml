@@ -2,164 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sarah Amalia</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://sarah-amalia.github.io/tags/</link>
     <description>Recent content in Tags on Sarah Amalia</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 23 Feb 2026 09:20:07 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sarah-amalia.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation</title>
-      <link>http://localhost:1313/tags/documentation/</link>
+      <link>https://sarah-amalia.github.io/tags/documentation/</link>
       <pubDate>Mon, 23 Feb 2026 09:20:07 +0700</pubDate>
-      <guid>http://localhost:1313/tags/documentation/</guid>
+      <guid>https://sarah-amalia.github.io/tags/documentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Faq</title>
-      <link>http://localhost:1313/tags/faq/</link>
+      <link>https://sarah-amalia.github.io/tags/faq/</link>
       <pubDate>Mon, 23 Feb 2026 09:20:07 +0700</pubDate>
-      <guid>http://localhost:1313/tags/faq/</guid>
+      <guid>https://sarah-amalia.github.io/tags/faq/</guid>
       <description></description>
     </item>
     <item>
       <title>Help Center</title>
-      <link>http://localhost:1313/tags/help-center/</link>
+      <link>https://sarah-amalia.github.io/tags/help-center/</link>
       <pubDate>Mon, 23 Feb 2026 09:20:07 +0700</pubDate>
-      <guid>http://localhost:1313/tags/help-center/</guid>
+      <guid>https://sarah-amalia.github.io/tags/help-center/</guid>
       <description></description>
     </item>
     <item>
       <title>Project</title>
-      <link>http://localhost:1313/tags/project/</link>
+      <link>https://sarah-amalia.github.io/tags/project/</link>
       <pubDate>Mon, 23 Feb 2026 09:20:07 +0700</pubDate>
-      <guid>http://localhost:1313/tags/project/</guid>
+      <guid>https://sarah-amalia.github.io/tags/project/</guid>
       <description></description>
     </item>
     <item>
       <title>Cheat Sheet</title>
-      <link>http://localhost:1313/tags/cheat-sheet/</link>
+      <link>https://sarah-amalia.github.io/tags/cheat-sheet/</link>
       <pubDate>Wed, 18 Feb 2026 09:06:19 +0700</pubDate>
-      <guid>http://localhost:1313/tags/cheat-sheet/</guid>
+      <guid>https://sarah-amalia.github.io/tags/cheat-sheet/</guid>
       <description></description>
     </item>
     <item>
       <title>Cli</title>
-      <link>http://localhost:1313/tags/cli/</link>
+      <link>https://sarah-amalia.github.io/tags/cli/</link>
       <pubDate>Wed, 18 Feb 2026 09:06:19 +0700</pubDate>
-      <guid>http://localhost:1313/tags/cli/</guid>
+      <guid>https://sarah-amalia.github.io/tags/cli/</guid>
       <description></description>
     </item>
     <item>
       <title>Command Line</title>
-      <link>http://localhost:1313/tags/command-line/</link>
+      <link>https://sarah-amalia.github.io/tags/command-line/</link>
       <pubDate>Wed, 18 Feb 2026 09:06:19 +0700</pubDate>
-      <guid>http://localhost:1313/tags/command-line/</guid>
+      <guid>https://sarah-amalia.github.io/tags/command-line/</guid>
       <description></description>
     </item>
     <item>
       <title>Developer</title>
-      <link>http://localhost:1313/tags/developer/</link>
+      <link>https://sarah-amalia.github.io/tags/developer/</link>
       <pubDate>Wed, 18 Feb 2026 09:06:19 +0700</pubDate>
-      <guid>http://localhost:1313/tags/developer/</guid>
+      <guid>https://sarah-amalia.github.io/tags/developer/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
-      <link>http://localhost:1313/tags/git/</link>
+      <link>https://sarah-amalia.github.io/tags/git/</link>
       <pubDate>Wed, 18 Feb 2026 09:06:19 +0700</pubDate>
-      <guid>http://localhost:1313/tags/git/</guid>
+      <guid>https://sarah-amalia.github.io/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Github</title>
-      <link>http://localhost:1313/tags/github/</link>
+      <link>https://sarah-amalia.github.io/tags/github/</link>
       <pubDate>Wed, 18 Feb 2026 09:06:19 +0700</pubDate>
-      <guid>http://localhost:1313/tags/github/</guid>
+      <guid>https://sarah-amalia.github.io/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Quick Guide</title>
-      <link>http://localhost:1313/tags/quick-guide/</link>
+      <link>https://sarah-amalia.github.io/tags/quick-guide/</link>
       <pubDate>Wed, 18 Feb 2026 09:06:19 +0700</pubDate>
-      <guid>http://localhost:1313/tags/quick-guide/</guid>
+      <guid>https://sarah-amalia.github.io/tags/quick-guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Technical Writing</title>
-      <link>http://localhost:1313/tags/technical-writing/</link>
+      <link>https://sarah-amalia.github.io/tags/technical-writing/</link>
       <pubDate>Wed, 18 Feb 2026 09:06:19 +0700</pubDate>
-      <guid>http://localhost:1313/tags/technical-writing/</guid>
+      <guid>https://sarah-amalia.github.io/tags/technical-writing/</guid>
       <description></description>
     </item>
     <item>
       <title>Guide</title>
-      <link>http://localhost:1313/tags/guide/</link>
+      <link>https://sarah-amalia.github.io/tags/guide/</link>
       <pubDate>Sat, 14 Feb 2026 09:23:04 +0700</pubDate>
-      <guid>http://localhost:1313/tags/guide/</guid>
+      <guid>https://sarah-amalia.github.io/tags/guide/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/tags/markdown/</link>
+      <link>https://sarah-amalia.github.io/tags/markdown/</link>
       <pubDate>Sat, 14 Feb 2026 09:23:04 +0700</pubDate>
-      <guid>http://localhost:1313/tags/markdown/</guid>
+      <guid>https://sarah-amalia.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Writers</title>
-      <link>http://localhost:1313/tags/writers/</link>
+      <link>https://sarah-amalia.github.io/tags/writers/</link>
       <pubDate>Sat, 14 Feb 2026 09:23:04 +0700</pubDate>
-      <guid>http://localhost:1313/tags/writers/</guid>
+      <guid>https://sarah-amalia.github.io/tags/writers/</guid>
       <description></description>
     </item>
     <item>
       <title>Installation Guide</title>
-      <link>http://localhost:1313/tags/installation-guide/</link>
+      <link>https://sarah-amalia.github.io/tags/installation-guide/</link>
       <pubDate>Mon, 09 Feb 2026 19:02:28 +0700</pubDate>
-      <guid>http://localhost:1313/tags/installation-guide/</guid>
+      <guid>https://sarah-amalia.github.io/tags/installation-guide/</guid>
       <description></description>
     </item>
     <item>
       <title>End-User Documentation</title>
-      <link>http://localhost:1313/tags/end-user-documentation/</link>
+      <link>https://sarah-amalia.github.io/tags/end-user-documentation/</link>
       <pubDate>Wed, 07 Jan 2026 08:44:40 +0700</pubDate>
-      <guid>http://localhost:1313/tags/end-user-documentation/</guid>
+      <guid>https://sarah-amalia.github.io/tags/end-user-documentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Saas</title>
-      <link>http://localhost:1313/tags/saas/</link>
+      <link>https://sarah-amalia.github.io/tags/saas/</link>
       <pubDate>Wed, 07 Jan 2026 08:44:40 +0700</pubDate>
-      <guid>http://localhost:1313/tags/saas/</guid>
+      <guid>https://sarah-amalia.github.io/tags/saas/</guid>
       <description></description>
     </item>
     <item>
       <title>User Guide</title>
-      <link>http://localhost:1313/tags/user-guide/</link>
+      <link>https://sarah-amalia.github.io/tags/user-guide/</link>
       <pubDate>Wed, 07 Jan 2026 08:44:40 +0700</pubDate>
-      <guid>http://localhost:1313/tags/user-guide/</guid>
+      <guid>https://sarah-amalia.github.io/tags/user-guide/</guid>
       <description></description>
     </item>
     <item>
       <title>API Reference Documentation</title>
-      <link>http://localhost:1313/tags/api-reference-documentation/</link>
+      <link>https://sarah-amalia.github.io/tags/api-reference-documentation/</link>
       <pubDate>Sat, 06 Sep 2025 09:54:04 +0700</pubDate>
-      <guid>http://localhost:1313/tags/api-reference-documentation/</guid>
+      <guid>https://sarah-amalia.github.io/tags/api-reference-documentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Bored API</title>
-      <link>http://localhost:1313/tags/bored-api/</link>
+      <link>https://sarah-amalia.github.io/tags/bored-api/</link>
       <pubDate>Sat, 06 Sep 2025 09:54:04 +0700</pubDate>
-      <guid>http://localhost:1313/tags/bored-api/</guid>
+      <guid>https://sarah-amalia.github.io/tags/bored-api/</guid>
       <description></description>
     </item>
     <item>
       <title>Developer Docs</title>
-      <link>http://localhost:1313/tags/developer-docs/</link>
+      <link>https://sarah-amalia.github.io/tags/developer-docs/</link>
       <pubDate>Sat, 06 Sep 2025 09:54:04 +0700</pubDate>
-      <guid>http://localhost:1313/tags/developer-docs/</guid>
+      <guid>https://sarah-amalia.github.io/tags/developer-docs/</guid>
       <description></description>
     </item>
   </channel>

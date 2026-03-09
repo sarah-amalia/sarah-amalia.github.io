@@ -30,11 +30,8 @@ author:
       icon: "devto"
 ---
 
-About This Site
-This is my personal space for sharing technical writing projects, tech insights, and sometimes journal entries.
-
-Built with <u>[GitHub](https://docs.github.com/en)</u>, <u>[Netlify](https://www.netlify.com/)</u>,<u>[Hugo](https://gohugo.io/)</u>, the <u>[Narrow theme](https://hugo-narrow-docs.vercel.app/)</u>, and <u>[Markdown](https://www.markdownguide.org/)</u>.
+About This Site  
+This is my personal space for sharing technical writing projects, tech insights, and sometimes journal entries or free-writing.
 
 --  
-Visit my **<U>[documentation process](https://remnote.com/a/My-Documentation-Process/69900ebee4f1b663cc153c82)</u>** page on remnote to understand how I develop my portfolio projects.
-
+Built with <u>[GitHub](https://docs.github.com/en)</u>, <u>[Netlify](https://www.netlify.com/)</u>,<u>[Hugo](https://gohugo.io/)</u>, <u>[Markdown](https://www.markdownguide.org/)</u>, and the <u>[Narrow theme](https://hugo-narrow-docs.vercel.app/)</u>.

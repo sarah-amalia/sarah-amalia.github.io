@@ -4,7 +4,7 @@ date:
 title: "Home"
 author:
   name: "Sarah Amalia"
-  title: "Technical Writer | Product & Software Documentation"
+  title: "Technical Writer | Software Documentation"
   description: "1 Year Experience - 7+ Completed Projects"
   avatar: "/images/sa.png"
   stats:
